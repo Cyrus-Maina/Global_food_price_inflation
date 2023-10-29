@@ -52,8 +52,8 @@ We also used **Tableau** for visualization. Tableau text file extension requires
 
    vii. Efforts in sourcing palm oil from other countries apart from Indonesia and investment in homegrown cultivation of palms will help. This is because cooking oil prices shot once Indonesia restricted palm oil exports to conserve its supplies for domestic use. Such erratic acts lead to uforeseen price hikes.
 
-   viii. Removal of VAT on food 
+viii. Removal of VAT on food 
 
-    As the world continues experiencing unforeseen events like Palestine-Israel war food prices will still hike due to disrupted supply chains.
-    Only remedy is the goverment to take action on sustainable counter measures to cushion the country from food price inflation.
+ As the world continues experiencing unforeseen events like Palestine-Israel war food prices will still hike due to disrupted supply chains.
+ Only remedy is the goverment to take action on sustainable counter measures to cushion the country from food price inflation.
    
