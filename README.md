@@ -16,9 +16,13 @@ It has the following fields:
 5. Inflation- the rate of increase in food prices over a given period of time.
 
 The table had so many null values which we filled in using the mode number( most frequent) of each respective field.
+
 ISO3 are three-letter country codes published by the International Organization for Standardization, to represent countries, dependent territories, and special areas of geographical interest.
+
 We dropped the country field as ISO3 served us better due its short-formess.
+
 We used the **plotly library** for visualization as it enables interactive visualization, an effect crucial to us as each day has 5 variables to focus on.
+
 We also used **Tableau** for visualization. Tableau text file extension requires one to click on 'Raw' once you have clicked the file and then click on save to download it on your PC to view the plots.
 
 **INSIGHTS FROM TIME SERIES ANALYSIS**
@@ -46,10 +50,9 @@ We also used **Tableau** for visualization. Tableau text file extension requires
 
    vi. Homegrown manufacturing of fertilizers and offering tax incentives to the sector so as to attract such ivestments which will cushion the country from international instabilitieslike the one in Ukraine.
 
-   vii. Efforts in sourcing palm oil from other countries apart from Indonesia and investment in homegrown cultivation of palms will help. This is because cooking oil prices shot once Indonesia restricted palm oil exports
-        to conserve its supplies for domestic use. Such erratic acts lead to uforeseen price hikes.
+   vii. Efforts in sourcing palm oil from other countries apart from Indonesia and investment in homegrown cultivation of palms will help. This is because cooking oil prices shot once Indonesia restricted palm oil exports to conserve its supplies for domestic use. Such erratic acts lead to uforeseen price hikes.
 
-    viii. Removal of VAT on food 
+   viii. Removal of VAT on food 
 
     As the world continues experiencing unforeseen events like Palestine-Israel war food prices will still hike due to disrupted supply chains.
     Only remedy is the goverment to take action on sustainable counter measures to cushion the country from food price inflation.
